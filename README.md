@@ -1,5 +1,3 @@
-# Hi there! 👋 / 你好！👋
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Programming+Enthusiast;Knowledge+Sharing+Creator;Open+Source+Developer;Building+the+Future+with+AI)
